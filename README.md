@@ -104,3 +104,15 @@ Use interactive dashboards with slicers and pivot charts for ongoing analysis.
 Leverage statistical metrics (cumulative revenue, profit, and percentages) to identify growth opportunities and underperforming products or periods.
 
 
+## 🗂 Files in This Repository
+
+- Original Data.xlsx → The Excel file containing data before cleaning contains
+
+- Sales Analysis.xlsx → The Excel file containing data, Tables & dashboard
+
+
+# Thanks For Your Time
+
+⭐ If you like this project, don’t forget to give it a star!
+
+
