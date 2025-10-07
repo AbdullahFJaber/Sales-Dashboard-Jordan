@@ -69,7 +69,7 @@ Percentage Analysis – Share of quantity and profit by city.
 
 Trend Visualization – Line chart view by quarters or full year.
 
-##📈 Dashboard Preview
+## 📈 Dashboard Preview
 
 <img width="1249" height="284" alt="Dashboard 1" src="https://github.com/user-attachments/assets/3b7e79ea-b6fb-4f3f-903f-a22527e4b8a7" />
 
