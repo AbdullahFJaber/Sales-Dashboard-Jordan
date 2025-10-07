@@ -51,7 +51,7 @@ Support Decision-Making & Training
 
 - Deliver an open-source project designed for training purposes, helping learners and analysts practice data analysis and informed decision-making.
 
-## 🔑 Key Insights (Summary)
+## 🔑 Key Insights 
 
 Top Products – Highest selling and most profitable products.
 
